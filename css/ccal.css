@@ -1,0 +1,61 @@
+.ccal-event p {
+  font-size: 12px;
+}
+
+.ccal-event .green {
+  color: green !important;
+}
+
+.ccal-event .amber {
+  color: #9f9500 !important;
+}
+
+.ccal-event .red {
+  color: #ec0000 !important;
+}
+
+.ccal-event h3 {
+  cursor: pointer;
+}
+
+.ccal-list ul li {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.ccal-list ul small {
+  color: #535353;
+  font-weight: normal;
+}
+
+.ccal-event {
+  display: none;
+}
+
+.ccal-loading {
+  display: none;
+  text-align: center;
+}
+
+.ccal-loading {
+  display: none;
+  text-align: center;
+}
+
+.ccal-loading span {
+  animation: rotation 0.8s infinite linear;
+}
+
+.ccal-list .widget-title a {
+  text-decoration: none;
+  margin-left:120px;
+}
+
+.ccal-list .widget-title span {
+  vertical-align: middle;
+}
+
+@keyframes rotation{
+    from{  transform: rotateZ(360deg)   }
+    to  {  transform: rotateZ(0deg) }
+}
