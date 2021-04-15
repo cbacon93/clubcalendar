@@ -1,2 +1,3 @@
 # clubcalendar
-Simple Wordpress event calendar for online clubs
+Einfacher Wordpress Eventkalender für online Vereine und Communities.  
+Admins können Events erstellen und Benutzer können die Teilnahme bestätigen oder absagen.
