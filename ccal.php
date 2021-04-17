@@ -1,13 +1,13 @@
 <?php
 /**
  * @package Club Calendar
- * @version 1.0.2
+ * @version 1.0.3
  */
 /*
 Plugin Name: Club Calendar
 Description: Dies ist ein einfaches Kalenderplugin
 Author: Marcel Haupt
-Version: 1.0.2
+Version: 1.0.3
 Author URI: https://ehaupt.de
 */
 

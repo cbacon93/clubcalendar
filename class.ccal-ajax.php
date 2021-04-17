@@ -134,4 +134,5 @@ class CCalAjax {
   }
 }
 add_action( 'wp_ajax_nopriv_ccal_get_event', 'CCalAjax::get_event' );
+add_action( 'wp_ajax_ccal_get_event', 'CCalAjax::get_event' );
 add_action( 'wp_ajax_ccal_set_status', 'CCalAjax::set_event_status' );
